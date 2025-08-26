@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# Secrets
+.env
+.env.*
+google-key.json
+cookies.txt
+
+# Runtime
+guild_settings.json
+temp_*.pcm
+*.log
+thinking.ogg
+thinking.mp3
